@@ -71,8 +71,4 @@ nova/
 
 ## 📜 License
 
-MIT © 2025 — Taikisha India
-
----
-
-Would you like me to include a small **project banner or screenshot section** at the top (for GitHub presentation)?
+MIT © 2025 — Md Altaf Husssain
